@@ -1,0 +1,12 @@
+textarea{
+    width: 350px;
+    height: 100px;
+}
+table,th, td{
+    border: 1px solid white;
+    
+}
+th,td{
+    width: 150px;
+
+}
